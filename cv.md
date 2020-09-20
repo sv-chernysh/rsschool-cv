@@ -9,7 +9,7 @@ Skype: sv.chernysh
 ## Who am I?
 
 I am a person who agrees with the fact that you either develop or degrade.
-This is one of the main reasons why I chose the frontend.
+This is one of the main reasons why I chose front-end.
 
 ## Skills
 
