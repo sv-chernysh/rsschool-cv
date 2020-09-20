@@ -1,0 +1,41 @@
+body {
+  padding: 0;
+  margin: 0;
+
+  font-family: "Roboto", "Arial", sans-serif;
+  font-size: 18px;
+}
+
+.body-container {
+  max-width: 1024px;
+  margin: 0 auto;
+  margin-bottom: 50px;
+
+  border: 1px solid gray;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px gray;
+}
+
+.main-header__title {
+  text-align: center;
+}
+
+.main-header__subtitle {
+  font-size: 0;
+  visibility: hidden;
+}
+
+.main-header__wrapper {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 5px 40px;
+}
+
+.main-header__photo {
+  display: block;
+  width: 150px;
+  height: auto;
+  border-radius: 30px;
+  box-shadow: 5px 5px 10px gray;
+}
