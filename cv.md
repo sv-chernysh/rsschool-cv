@@ -12,3 +12,10 @@ This is one of the main reasons why I chose the frontend.
 * JavaScript basic knowledge
 * Git
 * Photoshop, figma
+## Education
+###### Zhytomyr State Technological University
+__Information and Computer Technologies Department__
+* 2011 – 2012: Specialisation: “Computerized Systems of Control and Automation”  
+*Specialist Degree*
+* 2007 – 2011: Specialisation: “System Engineering"  
+*Bachelor Degree*
