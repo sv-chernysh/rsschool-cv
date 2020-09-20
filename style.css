@@ -43,3 +43,26 @@ body {
 main {
   padding: 5px 40px;
 }
+
+.education__university {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.education__department {
+  color: rgba(0, 0, 0, 0.7);
+}
+
+.education__table {
+  border-collapse: collapse;
+}
+
+.education__degree {
+  font-size: 16px;
+  font-style: italic;
+}
+
+.education__table td {
+  padding: 20px;
+  border: 2px solid black;
+}
