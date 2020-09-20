@@ -19,3 +19,5 @@ __Information and Computer Technologies Department__
 *Specialist Degree*
 * 2007 – 2011: Specialisation: “System Engineering"  
 *Bachelor Degree*
+## English level
+Pre-Intermediate (A2)
